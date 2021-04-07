@@ -7,7 +7,7 @@
 /*          UI library for BipOS 0.5.2+         */
 /*                                              */
 /*             Developer by Yuukari             */
-/*     https://github.com/Yuukari/BipFastUI     */
+/*   https://github.com/Yuukari/FastUILibrary   */
 /*                                              */
 /************************************************/
 
