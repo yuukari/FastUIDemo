@@ -1,0 +1,6 @@
+FastUIDemo.elf
+FastUIDemo.map
+app.o
+fastui.o
+foo
+.map
